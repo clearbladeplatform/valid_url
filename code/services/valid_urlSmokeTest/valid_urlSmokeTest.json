@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,valid_url",
+    "logging_enabled": "false",
+    "name": "valid_urlSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "valid_urlSmokeTest.js"
+}
